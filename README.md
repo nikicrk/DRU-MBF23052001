@@ -55,8 +55,6 @@ $ python2 run.py
 ```
 #### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)]()
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/siti.khatijah.1029)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/ziiro24/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285229323951?text=Asalamualaikum+bang)
 
 #### Notice 
 ```bash 
