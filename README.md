@@ -11,35 +11,7 @@
  <img src="https://github.com/Dru-Crack22/DRU-MBF23052001/blob/main/Screenshot_20210604_230504.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
-#### Results
- <img src="https://github.com/Dru-Crack22/DRU-MBF23052001/blob/main/Screenshot_20210605_025105.jpg" width="640" title="Menu" alt="Menu">
-</p>
 
-<a href="https://github.com/Dru-Crack22">
-<img title="Followers" src=""></a>
-<a href="">
-  <a href="">
-    <img alt="Last Commit" src=""/>
-  </a>
-  <a href="">
-    <img alt="Language" src=""/>
-  </a>
-  <a href="">
-    <img alt="Search" src=""/>
-  </a>
-  <a href="">
-    <img alt="Starts" src=""/>
-  </a>
-<a href="">
-    <img alt="Repo Size" src=""/>
-  </a>
-
-<a href="">
-    <img alt="Top Language" src=""/> <a href="">
-    <img alt="Forks" src=""/>
-  </a>
-</div>
-<p align="center">
 
 #### Install script on Termux
 ```bash
