@@ -18,7 +18,7 @@
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
-$ git clone https://github.com/Fall-Xavier/DRU-MBF23052001
+$ git clone https://github.com/Dru-Crack22/DRU-MBF23052001
 ```
 #### Run script
 ```bash
