@@ -1,9 +1,9 @@
-<h1 align="center">
+ <h1 align="center">
   FMBF
 </h1>
 </div>
 <p align="center">
-  Recode by <a href="https://www.facebook.com/Bang.badru23">Dru23_</a>
+  Recode by <ARISMUNANDAR30://www.facebook.com/ARIS.MUNANDAR30a>
 </p>
 <p align="center">
  
@@ -13,14 +13,14 @@
 
 
 
-#### Install script on Termux
+####  install perintah 
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
 $ git clone https://github.com/Dru-Crack22/DRU-MBF23052001
 ```
-#### Run script
+#### Crack run
 ```bash
 $ cd DRU-MBF23052001
 $ python2 run.py
@@ -31,5 +31,4 @@ $ python2 run.py
 #### Notice 
 ```bash 
 -Cek Hasil Crack Dalam 7 Hari
--Usahakan Gunakan Data Saat Crack
--Jangan Ubah Apapun Daripada Error
+-hay niki gant
