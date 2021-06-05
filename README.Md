@@ -28,7 +28,7 @@ $ python2 run.py
 ```
 #### MY SOCIAL MEDIA
 
-">Nikyi.py_</a>
+https://www.facebook.com/Nikyi.py
 #### Notice 
 ```bash 
 -Cek Hasil Crack Dalam 7 Hari
