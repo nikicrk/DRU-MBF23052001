@@ -22,6 +22,7 @@ $ git clone https://github.com/Dru-Crack22/DRU-MBF23052001
 #### Crack run
 ```bash
 $ cd DRU-MBF23052001
+$ pip2 install requests
 $ python2 run.py
 ```
 #### MY SOCIAL MEDIA
