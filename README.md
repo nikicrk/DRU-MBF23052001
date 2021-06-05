@@ -3,8 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Recode by "hrefhttps://www.facebook.com/ARIS.MUNANDAR30a>
-</p>
+  Recode by https://www.facebook.com/Nikyi.py>
 <p align="center">
  
 ### menu
