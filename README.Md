@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Recode by "ARIS.MUNANDAR30a < ://"www.facebook.com/ARIS.MUNANDAR30a>
+  Recode by "<ARIS.MUNANDAR30a < ://"www.facebook.com/ARIS.MUNANDAR30a>
 </p>
 <p align="center">
  
