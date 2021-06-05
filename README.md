@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Recode by <ARISMUNANDAR30://www.facebook.com/ARIS.MUNANDAR30a>
+  Recode by "hrefhttps://www.facebook.com/ARIS.MUNANDAR30a>
 </p>
 <p align="center">
  
@@ -13,7 +13,7 @@
 
 
 
-####  install perintah 
+####   install sckrip 
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install python2
