@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Recode by <a href="https://www.facebook.com/Bang.badru23">Dru23_</a>
+  Recode by <a href="https://www.facebook.com/Bang.badru23">Nikyi.py_</a>
 </p>
 <p align="center">
  
